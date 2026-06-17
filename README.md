@@ -14,7 +14,6 @@
 | 🤖 **DocuChat** — AI PDF chat app | React.js · Node.js · Groq API | [🔗 Live](https://docuchat-va61.vercel.app) · [Repo](https://github.com/vaishnavisingh025/docuchat) |
 | 🛍️ **Bloom & Buy** — Multi-vendor e-commerce + AI recommendations | React.js · Django · MongoDB · OpenAI | [Repo](https://github.com/vaishnavisingh025/bloom&buyecommerce) |
 | 🏫 **School Management System** — Production APK → live client | MERN · Flutter · Dart | [Repo](https://github.com/vaishnavisingh025/school-management-system) |
-| 💊 **Medicine Verification Platform** — AI label OCR + KYC | Groq Vision API · OCR · Django | Coming soon |
 
 ---
 
